@@ -1,0 +1,694 @@
+.frame {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .frame .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 7288px;
+    position: relative;
+  }
+  
+  .frame .overlap {
+    position: absolute;
+    width: 1357px;
+    height: 197px;
+    top: 251px;
+    left: 41px;
+    background-color: #e0dede;
+    border: 8px solid;
+    border-color: #434343;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .frame .bouton-nav {
+    position: relative;
+    width: 634px;
+    height: 134px;
+    top: 18px;
+    left: 370px;
+  }
+  
+  .frame .text-wrapper {
+    position: absolute;
+    width: 163px;
+    top: 104px;
+    left: 0;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-2 {
+    position: absolute;
+    width: 155px;
+    top: 104px;
+    left: 225px;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .text-wrapper-3 {
+    position: absolute;
+    width: 197px;
+    top: 104px;
+    left: 431px;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .tableau-noir {
+    position: absolute;
+    width: 108px;
+    height: 104px;
+    top: 0;
+    left: 239px;
+    object-fit: cover;
+  }
+  
+  .frame .event-management {
+    position: absolute;
+    width: 125px;
+    height: 91px;
+    top: 1px;
+    left: 462px;
+    object-fit: cover;
+  }
+  
+  .frame .accueil {
+    position: absolute;
+    width: 114px;
+    height: 91px;
+    top: 1px;
+    left: 3px;
+    object-fit: cover;
+  }
+  
+  .frame .pexels-sohailone {
+    position: absolute;
+    width: 1440px;
+    height: 503px;
+    top: 606px;
+    left: 0;
+  }
+  
+  .frame .LOGO {
+    position: absolute;
+    width: 318px;
+    height: 135px;
+    top: 1178px;
+    left: 537px;
+  }
+  
+  .frame .text-wrapper-4 {
+    position: absolute;
+    top: -1px;
+    left: 249px;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 100px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .overlap-group {
+    position: absolute;
+    width: 249px;
+    height: 98px;
+    top: 18px;
+    left: 0;
+  }
+  
+  .frame .text-wrapper-5 {
+    position: absolute;
+    top: 44px;
+    left: 74px;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-6 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .une-aventure {
+    position: absolute;
+    width: 1009px;
+    top: 1336px;
+    left: 201px;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .bottom-part {
+    position: absolute;
+    width: 1458px;
+    height: 419px;
+    top: 6869px;
+    left: -2px;
+  }
+  
+  .frame .overlap-2 {
+    position: relative;
+    width: 1440px;
+    height: 419px;
+    background-color: #d9d9d9;
+  }
+  
+  .frame .instagram {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 321px;
+    left: 66px;
+    object-fit: cover;
+  }
+  
+  .frame .social {
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    top: 321px;
+    left: 232px;
+    object-fit: cover;
+  }
+  
+  .frame .LOGO-2 {
+    position: absolute;
+    width: 318px;
+    height: 135px;
+    top: 32px;
+    left: 49px;
+  }
+  
+  .frame .text-wrapper-7 {
+    position: absolute;
+    width: 164px;
+    top: 44px;
+    left: 557px;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-8 {
+    position: absolute;
+    width: 240px;
+    top: 44px;
+    left: 1025px;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .ellipse {
+    top: 319px;
+    position: absolute;
+    width: 17px;
+    height: 20px;
+    left: 521px;
+    background-color: #000000;
+    border-radius: 8.5px / 10px;
+  }
+  
+  .frame .ellipse-2 {
+    top: 258px;
+    position: absolute;
+    width: 17px;
+    height: 20px;
+    left: 521px;
+    background-color: #000000;
+    border-radius: 8.5px / 10px;
+  }
+  
+  .frame .ellipse-3 {
+    top: 204px;
+    position: absolute;
+    width: 17px;
+    height: 20px;
+    left: 521px;
+    background-color: #000000;
+    border-radius: 8.5px / 10px;
+  }
+  
+  .frame .overlap-3 {
+    position: absolute;
+    width: 219px;
+    height: 191px;
+    top: 191px;
+    left: 557px;
+  }
+  
+  .frame .text-wrapper-9 {
+    position: absolute;
+    width: 219px;
+    top: 0;
+    left: 0;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-10 {
+    position: absolute;
+    width: 219px;
+    top: 54px;
+    left: 0;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-11 {
+    position: absolute;
+    width: 219px;
+    top: 115px;
+    left: 0;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .tel {
+    position: absolute;
+    width: 274px;
+    top: 140px;
+    left: 1025px;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .text-wrapper-12 {
+    position: absolute;
+    width: 332px;
+    top: 283px;
+    left: 42px;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .overlap-4 {
+    position: absolute;
+    width: 286px;
+    height: 92px;
+    top: 210px;
+    left: 1025px;
+  }
+  
+  .frame .element-RUE-DE-LA {
+    position: absolute;
+    width: 286px;
+    top: 44px;
+    left: 0;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .dedal-gmail-com {
+    position: absolute;
+    width: 274px;
+    top: 0;
+    left: 0;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .abonnement {
+    position: absolute;
+    width: 1447px;
+    height: 423px;
+    top: 3885px;
+    left: 0;
+  }
+  
+  .frame .overlap-5 {
+    position: absolute;
+    width: 1441px;
+    height: 252px;
+    top: 0;
+    left: 0;
+    background-color: #f8f5f5;
+  }
+  
+  .frame .p {
+    position: absolute;
+    width: 935px;
+    top: 0;
+    left: 252px;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .rectangle {
+    position: absolute;
+    width: 534px;
+    height: 93px;
+    top: 95px;
+    left: 453px;
+  }
+  
+  .frame .text-wrapper-13 {
+    position: absolute;
+    width: 142px;
+    top: 124px;
+    left: 481px;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .arrow {
+    position: absolute;
+    width: 67px;
+    height: 19px;
+    top: 135px;
+    left: 862px;
+  }
+  
+  .frame .text-wrapper-14 {
+    position: absolute;
+    width: 933px;
+    top: 277px;
+    left: 251px;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .EXPO-a-VENIR {
+    position: absolute;
+    width: 1424px;
+    height: 1022px;
+    top: 4516px;
+    left: 11px;
+  }
+  
+  .frame .text-wrapper-15 {
+    position: absolute;
+    width: 1139px;
+    top: 0;
+    left: 161px;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 96px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .expo {
+    width: 706px;
+    left: 0;
+    position: absolute;
+    height: 519px;
+    top: 244px;
+    object-fit: cover;
+  }
+  
+  .frame .img {
+    width: 705px;
+    left: 709px;
+    position: absolute;
+    height: 519px;
+    top: 244px;
+    object-fit: cover;
+  }
+  
+  .frame .paris-porte-d-italie {
+    position: absolute;
+    width: 654px;
+    top: 787px;
+    left: 20px;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .nice-massena {
+    position: absolute;
+    width: 654px;
+    top: 787px;
+    left: 741px;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .div-wrapper {
+    position: absolute;
+    width: 430px;
+    height: 69px;
+    top: 953px;
+    left: 138px;
+    background-color: #000000;
+    border-radius: 52px;
+  }
+  
+  .frame .text-wrapper-16 {
+    position: absolute;
+    width: 226px;
+    top: 8px;
+    left: 102px;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .overlap-6 {
+    position: absolute;
+    width: 430px;
+    height: 69px;
+    top: 953px;
+    left: 847px;
+    background-color: #000000;
+    border-radius: 52px;
+  }
+  
+  .frame .oeuvres-mois {
+    position: absolute;
+    width: 1346px;
+    height: 1479px;
+    top: 2198px;
+    left: 49px;
+  }
+  
+  .frame .overlap-7 {
+    position: relative;
+    width: 1368px;
+    height: 1479px;
+    left: -13px;
+  }
+  
+  .frame .toutes-nos-uvres {
+    position: absolute;
+    width: 909px;
+    top: 174px;
+    left: 236px;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #7e75ff;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .bouton-voir-oeuvre {
+    position: absolute;
+    width: 1199px;
+    height: 1479px;
+    top: 0;
+    left: 93px;
+  }
+  
+  .frame .text-wrapper-17 {
+    position: absolute;
+    width: 1197px;
+    top: 0;
+    left: 0;
+    font-family: "Kalnia-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 96px;
+    text-align: center;
+    letter-spacing: -2.88px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .frame .rectangle-2 {
+    position: absolute;
+    width: 582px;
+    height: 88px;
+    top: 1391px;
+    left: 301px;
+  }
+  
+  .frame .text-wrapper-18 {
+    position: absolute;
+    width: 545px;
+    top: 1411px;
+    left: 411px;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .frame .oeuvre-du-mois {
+    width: 464px;
+    height: 643px;
+    top: 703px;
+    left: 904px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .oeuvre-du-mois-2 {
+    width: 410px;
+    height: 840px;
+    top: 506px;
+    left: 479px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .frame .oeuvre-mois {
+    position: absolute;
+    width: 464px;
+    height: 643px;
+    top: 703px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .frame .pexels-pok-rie {
+    position: absolute;
+    width: 1440px;
+    height: 532px;
+    top: 1575px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .frame .text-wrapper-19 {
+    position: absolute;
+    width: 779px;
+    top: 96px;
+    left: 330px;
+    font-family: "Kalnia-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+
+  @media screen and (max-width:600px) {
+
+
+
+  }
+  
