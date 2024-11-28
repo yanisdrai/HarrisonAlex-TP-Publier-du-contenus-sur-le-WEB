@@ -419,12 +419,11 @@
     top: 95px;
     left: 453px;
   }
-  
-  .frame .text-wrapper-13 {
+  .frame .overlap-5 form {
     position: absolute;
     width: 142px;
-    top: 124px;
-    left: 481px;
+    top: 100px;
+    left: 500px;
     font-family: "Kalnia-Regular", Helvetica;
     font-weight: 400;
     color: #000000;
@@ -759,16 +758,17 @@
     /* ... other styles */
     .frame .pexels-sohailone {
       position: absolute;
-      width: 400px;
-      height: 131px;
-      top: 300px;
+      width: 450px;
+      height: 200px;
+      top: 200px;
+      left: 10px;
     }
 
     .frame .text-wrapper-19 {
       position: relative;
       width: 100px;
       top: 96px;
-      left: 10px;
+      left: 50px;
       font-family: "Kalnia-Regular", Helvetica;
       font-weight: 400;
       color: #000000;
@@ -778,5 +778,176 @@
     .frame .overlap {
       display: none;
     }
+
+    .frame .LOGO {
+      position: absolute;
+      width: 318px;
+      height: 135px;
+      top: 400px;
+      left: 80px;
+    }
+
+    .frame .une-aventure {
+      position: absolute;
+      width: 800px;
+      top: 530px;
+      left: -150px;
+      font-family: "Kalnia-Regular", Helvetica;
+      font-weight: 400;
+      color: #000000;
+      font-size: 20px;
+      text-align: center;
+      letter-spacing: 0;
+      line-height: normal;
+    }
+
+    .frame .pexels-pok-rie {
+      position: absolute;
+      width: 480px;
+      height: 532px;
+      top: 700px;
+      left: 0;
+      object-fit: cover;
+    }
+
+    .frame .oeuvres-mois {
+      position: absolute;
+      width: 300px;
+      height: 500px;
+      top: 2000px;
+      left: 0px;
+    }
+
+    .frame .text-wrapper-17 {
+      position: absolute;
+      width: 300px;
+      top: -700px;
+      left: -40px;
+      font-family: "Kalnia-Medium", Helvetica;
+      font-weight: 500;
+      color: #000000;
+      font-size: 50px;
+      text-align: center;
+      letter-spacing: -2.88px;
+      line-height: normal;
+      white-space: nowrap;
+    }
+
+    .frame .toutes-nos-uvres {
+      position: absolute;
+      width: 400px;
+      top: -600px;
+      left: 50px;
+      font-family: "Kalnia-Regular", Helvetica;
+      font-weight: 400;
+      color: #7e75ff;
+      font-size: 27px;
+      text-align: center;
+      letter-spacing: 0;
+      line-height: normal;
+    }
+
+    .frame .oeuvre-mois {
+      position: absolute;
+      width: 400px;
+      height: 600px;
+      top: -200px;
+      left: 40px;
+      object-fit: cover;
+    }
+
+    .frame .oeuvre-du-mois-2 {
+      width: 400px;
+      height: 700px;
+      top: 500px;
+      left: 40px;
+      position: absolute;
+      object-fit: cover;
+    }
+
+    .frame .oeuvre-du-mois {
+      width: 400px;
+      height: 600px;
+      top: 1250px;
+      left: 40px;
+      position: absolute;
+      object-fit: cover;
+    }
+
+    .frame .abonnement {
+      position: absolute;
+      width: 100px;
+      height: 423px;
+      top: 3885px;
+      left: 0;
+    }
+
+    .frame .overlap-5 {
+      position: absolute;
+      width: 450px;
+      height: 250px;
+      top: 0;
+      left: 0;
+      background-color: #f8f5f5;
+    }
+
+    .frame .p {
+      position: absolute;
+      width: 308px;
+      top: 0;
+      left: 50px;
+      font-family: "Kalnia-Regular", Helvetica;
+      font-weight: 30;
+      color: #000000;
+      font-size: 30px;
+      text-align: center;
+      letter-spacing: 0;
+      line-height: normal;
+    }
+
+    .frame .text-wrapper-13 {
+      position: absolute;
+      width: 142px;
+      top: 130px;
+      left: 50px;
+      font-family: "Kalnia-Regular", Helvetica;
+      font-weight: 400;
+      color: #000000;
+      font-size: 24px;
+      text-align: center;
+      letter-spacing: 0;
+      line-height: normal;
+      white-space: nowrap;
+    }
+
+    .frame .overlap-5 form {
+      position: absolute;
+      width: 142px;
+      top: 100px;
+      left: 50px;
+      font-family: "Kalnia-Regular", Helvetica;
+      font-weight: 400;
+      color: #000000;
+      font-size: 24px;
+      text-align: center;
+      letter-spacing: 0;
+      line-height: normal;
+      white-space: nowrap;
+    }
+
+    .frame .text-wrapper-14 {
+      position: absolute;
+      width: 500px;
+      top: 250px;
+      left: -10px;
+      font-family: "Kalnia-Regular", Helvetica;
+      font-weight: 400;
+      color: #000000;
+      font-size: 24px;
+      text-align: center;
+      letter-spacing: 0;
+      line-height: normal;
+    }
+
 
   }
